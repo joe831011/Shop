@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    阿囉哈爹修
+                    安安，{{$username}}
                 </div>
 
                 <div class="links">
