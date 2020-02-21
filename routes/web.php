@@ -14,5 +14,5 @@
 Route::get('/', function () {
     // return view('frontend.welcome',['username' => '大帥哥']);
     return view('frontend.master');
-    //123
+    //123456
 });
