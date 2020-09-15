@@ -1,5 +1,7 @@
 @extends('layouts.master')
-
+@section('title')
+驗證
+@endsection
 @section('content')
 <div class="container">
     <div class="row justify-content-center">

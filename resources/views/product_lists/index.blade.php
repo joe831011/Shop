@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('title')
-資料
+所有商品
 @endsection
 @section('content')
 <div class="container">
